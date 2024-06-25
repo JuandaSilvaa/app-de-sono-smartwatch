@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O App de Sono para Smartwatch é uma página web que simula um smartwatch exibindo um histórico de sono, incluindo tipo de sono e data.
 
-- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io//)
+- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io/app-de-sono-smartwatch/)
 
 ## 🔍 Destaques do Aprendizado
 
